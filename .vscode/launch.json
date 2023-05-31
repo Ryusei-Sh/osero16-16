@@ -1,0 +1,45 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Reversi16",
+            "request": "launch",
+            "mainClass": "Reversi16",
+            "projectName": "osero15.15_4f02006c"
+        },
+        {
+            "type": "java",
+            "name": "Reversi15",
+            "request": "launch",
+            "mainClass": "Reversi15",
+            "projectName": "osero15.15_4f02006c"
+        },
+        {
+            "type": "java",
+            "name": "Reversi15",
+            "request": "launch",
+            "mainClass": "Reversi15",
+            "projectName": "osero15.15_4f047ad5",
+            "vmArgs": "--module-path \"C://Program Files\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C://Program Files\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Reversi",
+            "request": "launch",
+            "mainClass": "Reversi",
+            "projectName": "osero15.15_4f047ad5",
+            "vmArgs": "--module-path \"C://Program Files\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
